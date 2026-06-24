@@ -11,4 +11,7 @@ first()
 
 
  console.log(" i Watch only pOGO Channel")
-  
+  function sum(){
+    return 2+1
+  }
+  console.log(sum())
