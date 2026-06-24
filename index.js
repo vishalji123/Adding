@@ -15,3 +15,11 @@ first()
     return 2+1
   }
   console.log(sum())
+
+
+
+     function curry(){
+        return function(){
+            console.log("vishal")
+        }
+     }
